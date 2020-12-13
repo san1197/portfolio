@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.aca18c63.chunk.css",
+    "main.js": "/portfolio/static/js/main.68e610f5.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.68e610f5.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.65f14f28.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.65f14f28.js.map",
+    "static/js/2.8ed1045f.chunk.js": "/portfolio/static/js/2.8ed1045f.chunk.js",
+    "static/js/2.8ed1045f.chunk.js.map": "/portfolio/static/js/2.8ed1045f.chunk.js.map",
+    "static/css/3.ecdb89c8.chunk.css": "/portfolio/static/css/3.ecdb89c8.chunk.css",
+    "static/js/3.bbe4a6b6.chunk.js": "/portfolio/static/js/3.bbe4a6b6.chunk.js",
+    "static/js/3.bbe4a6b6.chunk.js.map": "/portfolio/static/js/3.bbe4a6b6.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.6e07a237eab3b960c7113fc12be12aee.js": "/portfolio/precache-manifest.6e07a237eab3b960c7113fc12be12aee.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/3.ecdb89c8.chunk.css.map": "/portfolio/static/css/3.ecdb89c8.chunk.css.map",
+    "static/css/main.aca18c63.chunk.css.map": "/portfolio/static/css/main.aca18c63.chunk.css.map",
+    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/aesLogo.png": "/portfolio/static/media/aesLogo.3a8c0bed.png",
+    "static/media/aicopLogo.png": "/portfolio/static/media/aicopLogo.bf95aee7.png",
+    "static/media/asuLogo.png": "/portfolio/static/media/asuLogo.baa352d6.png",
+    "static/media/awsLogo.png": "/portfolio/static/media/awsLogo.778b8185.png",
+    "static/media/codezillaLogo.png": "/portfolio/static/media/codezillaLogo.074139b4.png",
+    "static/media/contactImage.png": "/portfolio/static/media/contactImage.ee2baeb4.png",
+    "static/media/developerImage.png": "/portfolio/static/media/developerImage.97539cea.png",
+    "static/media/expenseLogo.png": "/portfolio/static/media/expenseLogo.8007472b.png",
+    "static/media/mathubLogo.png": "/portfolio/static/media/mathubLogo.9c2452ee.png",
+    "static/media/opphackLogo.png": "/portfolio/static/media/opphackLogo.64b22d6b.png",
+    "static/media/opphackLogo2.png": "/portfolio/static/media/opphackLogo2.4eb19228.png",
+    "static/media/proficiencyImage.png": "/portfolio/static/media/proficiencyImage.d634552f.png",
+    "static/media/skillsImage.png": "/portfolio/static/media/skillsImage.97d4e083.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65f14f28.js",
+    "static/js/2.8ed1045f.chunk.js",
+    "static/css/main.aca18c63.chunk.css",
+    "static/js/main.68e610f5.chunk.js"
+  ]
+}
