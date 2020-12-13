@@ -1,0 +1,79 @@
+.hob-icons {
+  padding-left: 0;
+  list-style: none;
+  font-size: 4rem;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  /* text-align: center; */
+}
+
+.hobby-inline {
+  display: inline-block;
+  margin-right: 8%;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.hobby-inline > i {
+  color: #423d3d;
+}
+
+.hobby-inline > i:hover {
+  color: #fed386;
+}
+.hobby-inline > p {
+  color: #423d3d;
+  font-size: 15px;
+}
+.hobby-inline > i:hover ~ p{
+  color: #fed386;
+}
+
+.startup-projects-main {
+  display: flex;
+}
+
+.startup-projects-main > * {
+  flex: 1;
+  margin-bottom: 30px;
+}
+
+.starup-project-image > img {
+  max-width: 100%;
+  height: auto;
+}
+
+.project-card-head {
+  color: rgb(36, 41, 46);
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  margin: 0px;
+}
+
+.startup-project-text {
+  display: flex;
+  justify-content: space-between;
+}
+
+.project-card-description {
+  color: rgb(88, 96, 105);
+}
+.subTitle {
+  color: #000000;
+}
+
+.saaya-health-div,
+.nextu-div {
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .starup-project-image {
+    display: none;
+  }
+  .project-subtitle {
+    font-size: 16px;
+    text-align: center;
+  }
+}

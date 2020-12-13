@@ -1,0 +1,29 @@
+.dev-icons {
+  padding-left: 0;
+  list-style: none;
+  font-size: 3rem;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.software-skill-inline {
+  display: inline-block;
+  margin-right: 50px;
+  margin-bottom: 20px;
+}
+
+.software-skill-inline > i {
+  color: #5a5a5a;
+}
+
+.software-skill-inline > i:hover {
+  color: #fed386;
+}
+.software-skill-inline > p {
+  color: #4b4b4b;
+  font-size: 20px;
+}
+.software-skill-inline > i:hover ~ p{
+  color: #fed386;
+}
