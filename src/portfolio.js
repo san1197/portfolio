@@ -195,7 +195,7 @@ const achievementSection = {
       subtitle: "A serverless and dynamic Account Vending Machine to create AWS accounts and Organizational Units.",
       image: require("./assets/images/awsLogo.png"),
       footerLink: [
-        { name: "View Project", url: "" },
+        { name: "View Project", url: "https://github.com/san1197/AWS-AccountVendingMachine" },
       ]
     },
     {
@@ -203,7 +203,7 @@ const achievementSection = {
       subtitle: "A machine learning model that detects unusual account activity in social media and flags the user as fake.",
       image: require("./assets/images/aicopLogo.png"),
       footerLink: [
-        { name: "View Project", url: "" },
+        { name: "View Project", url: "https://github.com/san1197/Twitter-FakeAccountDetection" },
       ]
     },
     {
