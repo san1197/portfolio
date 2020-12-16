@@ -86,7 +86,7 @@ const educationInfo = {
       logo: require("./assets/images/asuLogo.png"),
       subHeader: "Master of Science in Software Engineering",
       duration: "August 2019 - Present",
-      desc: "CGPA: 3.50",
+      desc: "CGPA: 3.63",
       descBullets: [
         "Courses: Data Mining, Software Agility, Advanced Data Structures and Algorithms, Foundations of Software Engineering",
         "Working as a Technology Assistant to assist professors with technical issues inside a remote learning setup.",
