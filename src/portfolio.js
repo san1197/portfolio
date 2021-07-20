@@ -3,9 +3,9 @@
 const greeting = {
   /* Your Summary And Greeting Section */
   username: "Sandya Manoharan",
-  title: "Hey there, I'm Sandya 😊",
-  subTitle: emoji("I love developing websites, solving problems and realizing the potential of software development to make the world a better place."),
-  sub2: emoji('Graduating with a Masters in Software Engineering on May 2021. 🎓'),
+  title: "Hey there, I'm Sandya 🙋‍♀",
+  subTitle: emoji("👩‍💻Associate Technical Business Analyst @ Indeed"),
+  sub2: emoji('Graduate in Software Engineering @ ASU'),
   resumeLink: "https://drive.google.com/file/d/17TLFJ6gFTqZeEmlytoacZoFzKNr2On_b/view?usp=sharing"
 };
 
@@ -133,10 +133,21 @@ const workExperiences = {
   viewExperiences: true, 
   experience: [
     {
-      role: "Software Development Engineer Intern",
-      company: "PayPal's Opportunity Hack",
+      role: "Associate Technical Business Analyst",
+      company: "Indeed",
       companylogo: require("./assets/images/opphackLogo.png"),
       date: "May 2020 - August 2020",
+      descBullets: [
+        "Followed team Jira processes, assisted project lead with task breakdown and effort estimation",
+        "Contributed to project execution with front and/or back end development.",
+        "Found relevant data for analysis and implemented provided data requirements."
+      ]
+    },
+    {
+      role: "Software Development Engineer Intern",
+      company: "PayPal's Opportunity Hack",
+      companylogo: require("./assets/images/indeedlogo.png"),
+      date: "July 2021 - Present",
       descBullets: [
         "Developed opportunityhack.io, a full-stack web application to showcase software solutions built by Opportunity Hack.",
         "Resolved issues causing site crashes, elevating uptime to 99%. Efforts were key to a 37% increase in daily traffic.",
