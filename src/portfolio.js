@@ -3,10 +3,10 @@
 const greeting = {
   /* Your Summary And Greeting Section */
   username: "Sandya Manoharan",
-  title: "Hey there, I'm Sandya 🙋‍♀",
-  subTitle: emoji("👩‍💻Associate Technical Business Analyst @ Indeed"),
+  title: "Hey there! I'm Sandya",
+  subTitle: emoji("Research Engineer @ Indeed"),
   sub2: emoji('Graduate in Software Engineering @ ASU'),
-  resumeLink: "https://drive.google.com/file/d/17TLFJ6gFTqZeEmlytoacZoFzKNr2On_b/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/16JuJedhcXDzW5mKftMbsn0X6JUCkKmbo/view?usp=sharing"
 };
 
 // Your Social Media Link
@@ -21,10 +21,8 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "Technical Skills",
-  subTitle: "PRODUCT OF 6 YEARS OF COLLEGE EXPERIENCE, INTERNSHIPS AND SELF LEARNING",
+  subTitle: "PRODUCT OF 2 YEARS OF SOFTWARE EXPERIENCE, INTERNSHIPS AND PROJECTS",
   skills: [
-    emoji("⚡ Build simple and user-friendly websites to make a user's life easier."),
-    emoji("⚡ Develop models to find novel or better solutions to complex problems yet to be solved.")
   ],
 
 
@@ -86,7 +84,7 @@ const educationInfo = {
       logo: require("./assets/images/asuLogo.png"),
       subHeader: "Master of Science in Software Engineering",
       duration: "August 2019 - Present",
-      desc: "CGPA: 3.63",
+      desc: "CGPA: 3.70",
       descBullets: [
         "Courses: Data Mining, Software Agility, Advanced Data Structures and Algorithms, Foundations of Software Engineering",
         "Working as a Technology Assistant to assist professors with technical issues inside a remote learning setup.",
@@ -114,12 +112,12 @@ const techStack = {
   viewSkillBars: true, 
   experience: [
     {
-      Stack: "Python Programming",  
+      Stack: "Python",
       progressPercentage: "80%"  
     },
     {
-      Stack: "Full Stack Development",
-      progressPercentage: "75%"
+      Stack: "Frontend Development",
+      progressPercentage: "90%"
     },
     {
       Stack: "Amazon Web Services",
@@ -133,21 +131,22 @@ const workExperiences = {
   viewExperiences: true, 
   experience: [
     {
-      role: "Associate Technical Business Analyst",
+      role: "Research Engineer I",
       company: "Indeed",
-      companylogo: require("./assets/images/opphackLogo.png"),
-      date: "May 2020 - August 2020",
+      companylogo: require("./assets/images/indeedlogo.png"),
+      date: "July 2021 - Present",
       descBullets: [
-        "Followed team Jira processes, assisted project lead with task breakdown and effort estimation",
-        "Contributed to project execution with front and/or back end development.",
-        "Found relevant data for analysis and implemented provided data requirements."
+        "Built automated weekly reports for the Amazon partnership project, responsible for $400MM in total hiring opportunity.",
+        "Implemented a React front end for an internal tool that provides daily prescriptive opportunities to Client Success representatives. The tool influenced close to 47,000 opportunities and over $500 million in revenue in Q4, 2022",
+        "Contributed to full stack development of Featured Employer, a project that incentivizes all employers to spend healthy budgets on Indeed Sponsored Jobs.",
+        "Assisted in the maintenance of a benchmark tool to build client reports and provide insights about their performance relative to the market. The tool has hundreds of users building around 1000 reports each month",
       ]
     },
     {
       role: "Software Development Engineer Intern",
       company: "PayPal's Opportunity Hack",
-      companylogo: require("./assets/images/indeedlogo.png"),
-      date: "July 2021 - Present",
+      companylogo: require("./assets/images/opphackLogo.png"),
+      date: "May 2020 - Aug 2020",
       descBullets: [
         "Developed opportunityhack.io, a full-stack web application to showcase software solutions built by Opportunity Hack.",
         "Resolved issues causing site crashes, elevating uptime to 99%. Efforts were key to a 37% increase in daily traffic.",
@@ -296,7 +295,7 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me 📧"),
+  title: emoji("Contact Me"),
   subtitle: "Say hi, let's see how we can change the world together.",
   email_address: "sandya7c@gmail.com"
 };
